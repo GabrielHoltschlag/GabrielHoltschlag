@@ -54,7 +54,7 @@ Check out my [**Portfolio**](https://www.gabrielholtschlag.com) site for more ga
 [Esophaguys]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=1000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=22&width=200&lines=Esophaguys
 [DudelRush]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=1000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=22&width=200&lines=Dudel+Rush
 [TutuTussle]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=1000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=22&width=200&lines=Tutu+Tussle
-[Flower]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=1000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=22&width=200&lines=Floweer+Defense
+[Flower]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=1000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=22&width=200&lines=Flower+Defense
 [Wobble]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=1000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=22&width=200&lines=Wobble+Frenzy
 [ArcDig]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=1000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=22&width=200&lines=ArcDig
 [ToddlerNauts]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=1000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=22&width=200&lines=Toddler-Nauts
