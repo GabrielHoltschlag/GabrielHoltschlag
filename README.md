@@ -2,30 +2,33 @@
 I love making games and little tools! Here are some of the games I've worked on:  
 
 <!-- Table -->
-| Game                          | Source                                                                                                                                       | Release                                                                                                                                      | Project                     | Date          |
-|:------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------|:--------------|
-| ![FlopShank][FlopShank]       | [Repository][FlopShankRepo] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>     | [Itch.io][FlopShankRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>     | Pombal Game Jam             | ![2024][2024] |
-| ![Diggy][Diggy]               | [Repository][DiggyRepo] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>         | [Itch.io][DiggyRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>         | Zero Game Jam               | ![2024][2024] |
-| ![Salmantra][Salmantra]       | [Repository][SalmantraRepo] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>     | [Itch.io][SalmantraRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>     | FishFest Game Jam           | ![2024][2024] |
-| ![Esophaguys][Esophaguys]     | _Unavailable_                                                                                                                                | [Itch.io][EsophaguysRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>    | Capstone Project            | ![2022][2022] |
-| ![DudelRush][DudelRush]       | _Unavailable_                                                                                                                                | [Itch.io][DudelRushRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>     | GMTK Jam                    | ![2020][2020] |
-| ![TutuTussle][TutuTussle]     | _Unavailable_                                                                                                                                | [Itch.io][TutuTussleRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>    | Ludum Dare #46              | ![2020][2020] |
-| ![Wobble][Wobble]             | _Unavailable_                                                                                                                                | [Itch.io][WobbleRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>        | ToJam                       | ![2020][2020] |
-| ![Flower][Flower]             | [Repository][FlowerRepo] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>        | _Unavailable_                                                                                                                                | Sheridan Sprint Week Jam    | ![2020][2020] |
-| ![ArcDig][ArcDig]             | _Unavailable_                                                                                                                                | [Itch.io][ArcDigRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>        | Brackeys Game Jam           | ![2020][2020] |
-| ![ToddlerNauts][ToddlerNauts] | _Unavailable_                                                                                                                                | [Itch.io][ToddlerNautsRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>  | Global Game Jam             | ![2020][2020] |
-| ![Shafurai][Shafurai]         | _Unavailable_                                                                                                                                | [Itch.io][ShafuraiRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/>      | MiniJam #29                 | ![2019][2019] |
-| ![ChickenStone][ChickenStone] | _Unavailable_                                                                                                                                | [Gamejolt][ChickenStoneRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/> | Personal Project            | ![2019][2019] |
-| ![SourBusiness][SourBusiness] | _Unavailable_                                                                                                                                | [GameJolt][SourBusinessRelease] <img src="https://img.icons8.com/?size=100&id=zWS3SNRj7odb&format=png&color=007BFF" width="16" height="16"/> | Ludum Dare #44              | ![2019][2019] |
+| Game                          | Source                                 | Release                                     | Project                     | Date          |
+|:------------------------------|:---------------------------------------|:--------------------------------------------|:----------------------------|:--------------|
+| ![FlopShank][FlopShank]       | [Repository][FlopShankRepo]![LinkIcon] | [Itch.io][FlopShankRelease]![LinkIcon]      | Pombal Game Jam             | ![2024][2024] |
+| ![Diggy][Diggy]               | [Repository][DiggyRepo]![LinkIcon]     | [Itch.io][DiggyRelease]![LinkIcon]          | Zero Game Jam               | ![2024][2024] |
+| ![Salmantra][Salmantra]       | [Repository][SalmantraRepo]![LinkIcon] | [Itch.io][SalmantraRelease]![LinkIcon]      | FishFest Game Jam           | ![2024][2024] |
+| ![Esophaguys][Esophaguys]     |~~_Unavailable_~~                       | [Itch.io][EsophaguysRelease]![LinkIcon]     | Capstone Project            | ![2022][2022] |
+| ![DudelRush][DudelRush]       |~~_Unavailable_~~                       | [Itch.io][DudelRushRelease]![LinkIcon]      | GMTK Jam                    | ![2020][2020] |
+| ![TutuTussle][TutuTussle]     |~~_Unavailable_~~                       | [Itch.io][TutuTussleRelease]![LinkIcon]     | Ludum Dare #46              | ![2020][2020] |
+| ![Wobble][Wobble]             |~~_Unavailable_~~                       | [Itch.io][WobbleRelease]![LinkIcon]         | ToJam                       | ![2020][2020] |
+| ![Flower][Flower]             | [Repository][FlowerRepo]![LinkIcon]    |~~_Unavailable_~~                            | Sheridan Sprint Week Jam    | ![2020][2020] |
+| ![ArcDig][ArcDig]             |~~_Unavailable_~~                       | [Itch.io][ArcDigRelease]![LinkIcon]         | Brackeys Game Jam           | ![2020][2020] |
+| ![ToddlerNauts][ToddlerNauts] |~~_Unavailable_~~                       | [Itch.io][ToddlerNautsRelease]![LinkIcon]   | Global Game Jam             | ![2020][2020] |
+| ![Shafurai][Shafurai]         |~~_Unavailable_~~                       | [Itch.io][ShafuraiRelease]![LinkIcon]       | MiniJam #29                 | ![2019][2019] |
+| ![ChickenStone][ChickenStone] |~~_Unavailable_~~                       | [Gamejolt][ChickenStoneRelease]![LinkIcon]  | Personal Project            | ![2019][2019] |
+| ![SourBusiness][SourBusiness] |~~_Unavailable_~~                       | [GameJolt][SourBusinessRelease]![LinkIcon]  | Ludum Dare #44              | ![2019][2019] |
 
 ##
-Check out my [**Portfolio**](https://www.gabrielholtschlag.com) site for more!  
+Check out my [**Portfolio**](https://www.gabrielholtschlag.com) site for more games and cool drawings!  
 
-<!-- Repository Links -->
+<!-- Into -->
 [IntoMessage]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=22&duration=3000&pause=0&color=F7CB4E&multiline=true&repeat=false&height=31&width=400&lines=Hi+there,+I'm+Gabriel! 
-
+<!-- Icons  -->
+[LinkIcon]: https://img.icons8.com/?size=12&id=zWS3SNRj7odb&format=png&color=007BFF
 <!-- Repository Links -->
 [FlopShankRepo]: https://github.com/Tristannn1337/PombalGamJam2024.git
+
+<!-- Repository Links -->
 [DiggyRepo]: https://github.com/jfvfrazao/zeroGameJam.git
 [SalmantraRepo]: https://github.com/GabrielHoltschlag/ReverseFishing.git
 [FlowerRepo]:https://github.com/rowanallcorn/DesignWeekSPR2020.git
@@ -61,7 +64,7 @@ Check out my [**Portfolio**](https://www.gabrielholtschlag.com) site for more!
 
 <!-- Dates -->
 [2025]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=4EF7B7&multiline=true&repeat=false&height=22&width=40&lines=2025
-[2024]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=4EF7A1&multiline=true&repeat=false&height=22&width=40&lines=2024
+[2024]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=12&duration=10&pause=0&color=4EF7A1&multiline=true&repeat=false&height=18&width=40&lines=2024
 [2023]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=4EF7A1&multiline=true&repeat=false&height=22&width=40&lines=2023
 [2022]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=F7E34E&multiline=true&repeat=false&height=22&width=40&lines=2022
 [2021]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=F7D04E&multiline=true&repeat=false&height=22&width=40&lines=2021
