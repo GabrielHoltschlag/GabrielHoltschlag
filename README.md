@@ -62,10 +62,10 @@
 
 <!-- Dates -->
 [2025]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=4EF7B7&multiline=true&repeat=false&height=22&width=40&lines=2025
-[2024]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=12&duration=10&pause=0&color=4EF7A1&multiline=true&repeat=false&height=22&width=40&lines=2024
+[2024]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=4EF7A1&multiline=true&repeat=false&height=22&width=40&lines=2024
 [2023]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=4EF7A1&multiline=true&repeat=false&height=22&width=40&lines=2023
 [2022]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=F7E34E&multiline=true&repeat=false&height=22&width=40&lines=2022
 [2021]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=F7D04E&multiline=true&repeat=false&height=22&width=40&lines=2021
 [2020]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=F7B24E&multiline=true&repeat=false&height=22&width=40&lines=2020
 [2019]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=F79C4E&multiline=true&repeat=false&height=22&width=40&lines=2019
-[2018]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=F77F4E&multiline=true&repeat=false&height=22&width=60&lines=2018
+[2018]: https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=14&duration=10&pause=0&color=F77F4E&multiline=true&repeat=false&height=22&width=40&lines=2018
